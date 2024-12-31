@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to the homepage of the PAMLab
 ---
 
+Hello, world!
