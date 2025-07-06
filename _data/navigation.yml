@@ -9,7 +9,7 @@
 
 main:
   - title: "News"
-    url: /year-archive/
+    url: /news/
     
   - title: "People"
     url: /people/    
