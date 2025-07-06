@@ -8,7 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "minimal-mistakes-jekyll"
+minimal_mistakes_skin    : "dark"
 title                    : "The Phonetics, Acquisition & Multilingualism Lab (PAMLab)"
 title_separator          : "-"
 name                     : &name "PAMLab"
