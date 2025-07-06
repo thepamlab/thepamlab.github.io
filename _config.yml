@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "pam_black_square.png"
   name             : "PAMLab at CityU"
-  pronouns         : "they/them" # example: "she/her"  
+  pronouns         : "" # example: "she/her"  
   bio              : "A research cluster in the Department of Linguistics and Translation"
   location         : "Hong Kong"
   employer         : "City University of Hong Kong"
