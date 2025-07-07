@@ -1,5 +1,5 @@
 ---
-title: "Prospective research assistants"
+title: "Prospective Research Assistants"
 collection: talks
 permalink: /for-students/prospective-ra
 ---
