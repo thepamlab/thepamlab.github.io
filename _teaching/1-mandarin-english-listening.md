@@ -16,4 +16,4 @@ This is a computer-based listening study which involves giving judgments on spok
 
 To sign up for the study, please scan the QR code on the flyer below, or email the study coordinator at <a href='mailto:linguisticsexperiment@gmail.com'>linguisticsexperiment@gmail.com</a>.
 
-<img src='/images/1-mandarin-english-listening.jpg'>
+<img src='/images/1-mandarin-english-listening.jpg' width='90' height='90' align='center' />
