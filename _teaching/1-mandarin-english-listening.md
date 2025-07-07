@@ -2,7 +2,7 @@
 title: "Mandarin-English Listening Study for Mandarin Learners"
 collection: teaching
 type: "Listening study"
-permalink: /teaching/1-mandarin-english-listening
+permalink: /current-studies/1-mandarin-english-listening
 venue: "Indiana University, Department of East Asian Languages and Cultures"
 date: 2025-07-06
 location: "Bloomington, IN, USA"
