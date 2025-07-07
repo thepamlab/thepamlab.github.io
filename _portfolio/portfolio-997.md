@@ -1,6 +1,6 @@
 ---
 title: "Collaborators"
-excerpt: "The PAMLab has collaborated with many excellent people over the years."
+excerpt: "Many excellent people have collaborated with us over the years."
 collection: portfolio
 ---
 
