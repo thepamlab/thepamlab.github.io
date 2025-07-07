@@ -2,6 +2,7 @@
 title: "Visiting Researchers"
 excerpt: "We have been able to welcome some external researchers as well."
 collection: portfolio
+permalink: /people/visitors
 ---
 
 <a href='http://www.sunyoungahn.org/' target='_blank'>Sunyoung Ahn</a> (Harvard University, 2018-19, 2019-20)<br/>
