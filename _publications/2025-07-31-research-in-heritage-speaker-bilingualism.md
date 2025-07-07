@@ -1,5 +1,5 @@
 ---
-title: "Research in heritage speaker bilingualism: Theories, methods, and designs"
+title: "Research in Heritage Speaker Bilingualism: Theories, Methods, and Designs"
 collection: publications
 category: books
 permalink: /publication/2025-07-31-research-in-heritage-speaker-bilingualism
