@@ -1,6 +1,6 @@
 ---
 title: "Visiting Researchers"
-excerpt: "The PAMLab has welcomed 3 visiting researchers over the years."
+excerpt: "3 external researchers have visited us over the years."
 collection: portfolio
 ---
 
