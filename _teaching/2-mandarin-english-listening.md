@@ -8,7 +8,7 @@ date: 2025-07-07
 location: "Bloomington, IN, USA"
 ---
 
-<i>Recruiting Chinese Americans (Mandarin heritage speakers) for a listening study!</i>
+Recruiting Chinese Americans (Mandarin heritage speakers) for a listening study!
 
 Requirements: age 18+; raised in the US starting before age 6; no history of speech or hearing issues; grew up with Mandarin spoken at home.
 
@@ -16,4 +16,4 @@ This is a computer-based listening study which involves giving judgments on spok
 
 To sign up for the study, please scan the QR code on the flyer below, or email the study coordinator at <a href='mailto:linguisticsexperiment@gmail.com'>linguisticsexperiment@gmail.com</a>.
 
-<img src='/images/2-mandarin-english-listening.jpg' width='90' height='90' align='center' />
+<img src='/images/2-mandarin-english-listening.jpg' align='center' />
