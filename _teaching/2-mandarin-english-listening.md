@@ -2,7 +2,7 @@
 title: "Mandarin-English Listening Study for Heritage Speakers"
 collection: teaching
 type: "Listening study"
-permalink: /teaching/2-mandarin-english-listening
+permalink: /current-studies/2-mandarin-english-listening
 venue: "Indiana University, Department of East Asian Languages and Cultures"
 date: 2025-07-07
 location: "Bloomington, IN, USA"
