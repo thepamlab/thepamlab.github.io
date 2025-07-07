@@ -1,5 +1,5 @@
 ---
-title: "Mandarin-English Listening Study"
+title: "Mandarin-English Listening Study for Mandarin Learners"
 collection: teaching
 type: "Listening study"
 permalink: /teaching/1-mandarin-english-listening
