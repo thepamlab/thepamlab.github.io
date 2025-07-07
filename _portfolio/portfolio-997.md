@@ -25,6 +25,7 @@ collection: portfolio
 <a href='https://www.linkedin.com/in/sue-ann-lee-phd-ccc-slp-064a7224/' target='_blank'>Sue Ann Lee</a>, Texas Tech University Health Sciences Center<br/>
 Sunyoung Lee-Ellis, Foreign Service Institute, U.S. Department of State<br/>
 <a href='http://noncompositional.com/' target='_blank'>Russell Lee-Goldman</a>, Pinterest<br/>
+<a href='https://sites.google.com/view/chienjerlin/' target='_blank'>Chien-Jer Charles Lin</a>, Indiana University<br/>
 <a href='https://dominique-lopiccolo.github.io/' target='_blank'>Dominique Lopiccolo</a>, University of Delaware<br/>
 <a href='https://profiles.ucl.ac.uk/12006-andrew-nevins' target='_blank'>Andrew Nevins</a>, University College London<br/>
 <a href='https://www.linkedin.com/in/martapiqueras/' target='_blank'>Marta Piqueras-Brunet</a>, FitnessKPI<br/>
