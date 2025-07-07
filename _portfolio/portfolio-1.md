@@ -1,6 +1,6 @@
 ---
 title: "Charles B. Chang, Director"
-excerpt: "<a href="https://cbchang.com/" target="_blank">Charles Chang</a> (Professor of Linguistics) is the director of the PAMLab. His research interests are in phonetics and phonology, language acquisition (especially L2 and L3/Ln learning), and the psycholinguistics of bilingualism and multilingualism.<br/><img src='/images/Chang_CB.jpg'>"
+excerpt: "<a href='https://cbchang.com/' target='_blank'>Charles Chang</a> (Professor of Linguistics) is the director of the PAMLab. His research interests are in phonetics and phonology, language acquisition (especially L2 and L3/Ln learning), and the psycholinguistics of bilingualism and multilingualism.<br/><img src='/images/Chang_CB.jpg'>"
 collection: portfolio
 ---
 
