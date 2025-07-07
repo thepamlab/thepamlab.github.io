@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Charles B. Chang, Director"
+excerpt: "Charles Chang (Professor of Linguistics) is the director of the PAMLab. His research interests are in phonetics and phonology, language acquisition (especially L2 and L3/Ln learning), and the psycholinguistics of bilingualism and multilingualism.<br/><img src='/images/Chang_CB.jpg'>"
 collection: portfolio
 ---
 
