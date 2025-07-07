@@ -1,6 +1,6 @@
 ---
 title: "Alumni and Former Interns"
-excerpt: "90 undergraduate students, postgraduate students, and interns have joined us over the years."
+excerpt: "Many (90 so far!) undergraduate students, postgraduate students, and interns have joined us over the years."
 collection: portfolio
 ---
 
