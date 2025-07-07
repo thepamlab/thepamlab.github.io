@@ -1,6 +1,6 @@
 ---
 title: "Alumni and Former Interns"
-excerpt: "The PAMLab has had 87 undergraduate students, postgraduate students, and interns join us over the years."
+excerpt: "The PAMLab has had 88 undergraduate students, postgraduate students, and interns join us over the years."
 collection: portfolio
 ---
 
@@ -36,6 +36,7 @@ Michael Fang (Boston U. ’22)<br/>
 <a href='https://www.linkedin.com/in/jenniferhollfelder/' target='_blank'>Jennifer Hollfelder</a> (Needham High ’18)<br/>
 <a href='https://www.linkedin.com/in/nolan-holley/' target='_blank'>Nolan Holley</a> (Williams College ’22)<br/>
 Xinwen Hu (BU GRS ’19 – MA Applied Linguistics)<br/>
+<a href='https://www.linkedin.com/in/yilan-hu/' target='_blank'>Yilan Hu</a> (Boston U. ’26)<br/>
 <a href='https://www.linkedin.com/in/ziweijohuang/' target='_blank'>Ziwei (Jo) Huang</a> (Pitzer College ’19)<br/>
 Will Hutter (Roxbury Latin School ’23)<br/>
 <a href='https://www.linkedin.com/in/nurg%C3%BCl-i-5a47301b/' target='_blank'>Nurgül Işik</a> (Boston U. ’19 – EdM TESOL)<br/>
