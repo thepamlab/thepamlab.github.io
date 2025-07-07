@@ -1,6 +1,6 @@
 ---
 title: "Collaborators"
-excerpt: "Many excellent people have collaborated with us over the years."
+excerpt: "Excellent people have collaborated with us over the years."
 collection: portfolio
 ---
 
