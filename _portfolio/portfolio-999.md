@@ -1,6 +1,6 @@
 ---
 title: "Visiting Researchers"
-excerpt: "3 external researchers have visited us over the years."
+excerpt: "We have been able to welcome some external researchers as well."
 collection: portfolio
 ---
 
