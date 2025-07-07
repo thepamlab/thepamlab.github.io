@@ -2,6 +2,7 @@
 title: "Alumni and Former Interns"
 excerpt: "Many (90 so far!) undergraduate students, postgraduate students, and interns have joined us over the years."
 collection: portfolio
+permalink: /people/alumni
 ---
 
 <a href='https://www.linkedin.com/in/alexander-acosta-3a2348174/' target='_blank'>Alexander Acosta</a> (Boston U. ’22)<br/>
