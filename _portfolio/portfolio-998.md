@@ -4,14 +4,14 @@ excerpt: "The PAMLab has had 88 undergraduate students, postgraduate students, a
 collection: portfolio
 ---
 
-<a href='https://www.linkedin.com/in/serena-agarwal-382b592b7/' target='_blank'>Serena Agarwal</a> (Brown U. '27)<br/>
-Celia Anderson (U. of Chicago '22)<br/>
-Allie Asaro (Boston U. '20)<br/>
-<a href='https://www.linkedin.com/in/sreyoshi-basu/' target='_blank'>Sreyoshi Basu</a> (U. of Rochester '24 – MA Linguistics)<br/>
-Aspen Bombardo (Boston U. '21)<br/>
-<a href='https://www.linkedin.com/in/adi-briskin252/' target='_blank'>Adi Briskin</a> (Washington U. of St. Louis '25)<br/>
-Jack Brown (Boston U. '22)<br/>
-<a href='https://www.bu.edu/linguistics/profile/megan-m-brown-bousfield/' target='_blank'>Megan M. Brown-Bousfield</a> (Boston U. '24 – PhD Linguistics)<br/>
+<a href='https://www.linkedin.com/in/serena-agarwal-382b592b7/' target='_blank'>Serena Agarwal</a> (Brown U. ’27)<br/>
+Celia Anderson (U. of Chicago ’22)<br/>
+Allie Asaro (Boston U. ’20)<br/>
+<a href='https://www.linkedin.com/in/sreyoshi-basu/' target='_blank'>Sreyoshi Basu</a> (U. of Rochester ’24 – MA Linguistics)<br/>
+Aspen Bombardo (Boston U. ’21)<br/>
+<a href='https://www.linkedin.com/in/adi-briskin252/' target='_blank'>Adi Briskin</a> (Washington U. of St. Louis ’25)<br/>
+Jack Brown (Boston U. ’22)<br/>
+<a href='https://www.bu.edu/linguistics/profile/megan-m-brown-bousfield/' target='_blank'>Megan M. Brown-Bousfield</a> (Boston U. ’24 – PhD Linguistics)<br/>
 <a href='https://www.linkedin.com/in/kun-cao-19960906/' target='_blank'>Kun Cao</a> (Boston U. ’18)<br/>
 <a href='https://www.linkedin.com/in/marissa-carl-573bba1aa/' target='_blank'>Marissa Carl</a> (Mount Holyoke College ’23)<br/>
 <a href='https://www.researchgate.net/profile/I-Lei-Chan' target='_blank'>I Lei (Vicky) Chan</a> (Boston U. ’17 – MA Applied Linguistics)<br/>
@@ -35,7 +35,7 @@ Michael Fang (Boston U. ’22)<br/>
 <a href='https://www.linkedin.com/in/kendra-hennegen-478512144/' target='_blank'>Kendra Hennegen</a> (Boston U. ’19 – MS Speech-Language Pathology)<br/>
 <a href='https://www.linkedin.com/in/jenniferhollfelder/' target='_blank'>Jennifer Hollfelder</a> (Needham High ’18)<br/>
 <a href='https://www.linkedin.com/in/nolan-holley/' target='_blank'>Nolan Holley</a> (Williams College ’22)<br/>
-Xinwen Hu (BU GRS ’19 – MA Applied Linguistics)<br/>
+Xinwen Hu (Boston U. ’19 – MA Applied Linguistics)<br/>
 <a href='https://www.linkedin.com/in/yilan-hu/' target='_blank'>Yilan Hu</a> (Boston U. ’26)<br/>
 <a href='https://www.linkedin.com/in/ziweijohuang/' target='_blank'>Ziwei (Jo) Huang</a> (Pitzer College ’19)<br/>
 Will Hutter (Roxbury Latin School ’23)<br/>
@@ -65,7 +65,7 @@ Tyler Olds (Columbia U. ’22)<br/>
 <a href='https://www.linkedin.com/in/james-rice-54570718b/' target='_blank'>James Rice</a> (Boston U. ’24)<br/>
 <a href='https://www.linkedin.com/in/samantha-rigor/' target='_blank'>Samantha (Sam) Rigor</a> (Boston U. ’24)<br/>
 <a href='https://www.linkedin.com/in/abigail-ripin-022063186/' target='_blank'>Abigail Ripin</a> (Boston U. ’20)<br/>
-<a href='https://sites.google.com/view/ksamejon/' target='_blank'>Kevin Samejon</a> (Biola U. ’17; Boston U. '24 – PhD Linguistics)<br/>
+<a href='https://sites.google.com/view/ksamejon/' target='_blank'>Kevin Samejon</a> (Biola U. ’17; Boston U. ’24 – PhD Linguistics)<br/>
 Maya Sanchez (Columbia U. ’21)<br/>
 <a href='https://www.linkedin.com/in/jimmysbordonejr/' target='_blank'>Jimmy Sbordone</a> (Boston U. ’18)<br/>
 Yueliang Shao (BU GRS ’19 – MA Linguistics)<br/>
@@ -77,7 +77,7 @@ Nick Tanner (UPenn ’26)<br/>
 <a href='https://www.linkedin.com/in/rachel-templeton-0301/' target='_blank'>Rachel Templeton</a> (Stonehill ’17)<br/>
 <a href='https://www.linkedin.com/in/kathryn-turner-6282a6b2/' target='_blank'>Kathryn Turner</a> (Boston U. ’18)<br/>
 <a href='https://www.linkedin.com/in/lena-venkatraman-298915247/' target='_blank'>Lena Venkatraman</a> (Yale U. ’22)<br/>
-Dallas Walter (BU CAS ’16)<br/>
+Dallas Walter (Boston U. ’16)<br/>
 <a href='https://www.linkedin.com/in/shan-wan-768187133/' target='_blank'>Shan Wan</a> (Boston U. ’19)<br/>
 Jason Wang (Concord Carlisle High ’24)<br/>
 <a href='https://www.yiinwang.com/' target='_blank'>Yiin Wang</a> (Boston U. ’23 – MA Linguistics)<br/>
