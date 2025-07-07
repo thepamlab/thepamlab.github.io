@@ -1,6 +1,6 @@
 ---
 title: "Alumni and Former Interns"
-excerpt: "The PAMLab has had 90 undergraduate students, postgraduate students, and interns join us over the years."
+excerpt: "90 undergraduate students, postgraduate students, and interns have joined us over the years."
 collection: portfolio
 ---
 
