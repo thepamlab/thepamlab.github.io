@@ -1,9 +1,10 @@
 ---
 title: "Alumni and Former Interns"
-excerpt: "The PAMLab has had 88 undergraduate students, postgraduate students, and interns join us over the years."
+excerpt: "The PAMLab has had 90 undergraduate students, postgraduate students, and interns join us over the years."
 collection: portfolio
 ---
 
+<a href='https://www.linkedin.com/in/alexander-acosta-3a2348174/' target='_blank'>Alexander Acosta</a> (Boston U. ’22)<br/>
 <a href='https://www.linkedin.com/in/serena-agarwal-382b592b7/' target='_blank'>Serena Agarwal</a> (Brown U. ’27)<br/>
 <a href='https://www.linkedin.com/in/celia-anderson-3a6975208/' target='_blank'>Celia Anderson</a> (U. of Chicago ’22)<br/>
 Allie Asaro (Boston U. ’20)<br/>
@@ -48,6 +49,7 @@ Hye Youn Jo (Boston U. ’18 – EdM TESOL)<br/>
 <a href='https://www.linkedin.com/in/peytonkrinsky/' target='_blank'>Peyton Krinsky</a> (Tufts U. ’24)<br/>
 <a href='https://www.linkedin.com/in/brenden-layte-71695014/' target='_blank'>Brenden Layte</a> (Boston U. ’17 – MA Applied Linguistics)<br/>
 Seokhwa Lee (Yonsei U. ’23)<br/>
+<a href='https://www.linkedin.com/in/jaiden-li/' target='_blank'>Jaiden Li</a> (Andover High ’25)<br/>
 <a href='https://www.linkedin.com/in/xiyuan-li-a30a261b8/' target='_blank'>Xiyuan (Jessica) Li</a> (Hong Kong Polytechnic U. ’20)<br/>
 <a href='https://www.linkedin.com/in/william-longerbeam-3338b5267/' target='_blank'>William Longerbeam</a> (Boston U. ’18)<br/>
 <a href='https://www.bu.edu/linguistics/profile/jade-ling-garstang/' target='_blank'>Jade Ling Garstang</a> (Boston U. ’26 – MA Linguistics)<br/>
@@ -61,6 +63,7 @@ Tyler Olds (Columbia U. ’22)<br/>
 <a href='https://www.linkedin.com/in/abby-pauley-710672199/' target='_blank'>Abby Pauley</a> (Boston U. ’17)<br/>
 <a href='https://www.linkedin.com/in/shane-quinn-96ba2a147/' target='_blank'>Shane Quinn</a> (Georgetown U. ’19, ’20 – MS Sociolinguistics)<br/>
 <a href='https://www.linkedin.com/in/harper-pollio-barbee-36b6a417a/' target='_blank'>Harper Pollio-Barbee</a> (Brandeis U. ’21)<br/>
+<a href='https://jupitararay.github.io/' target='_blank'>Jupitara Ray</a> (Boston U. ’26 - PhD Linguistics)<br/>
 <a href='https://github.com/linguistcrg' target='_blank'>Cristina Reguera Gómez</a> (UMBC ’22 – MA Intercultural Communication)<br/>
 <a href='https://www.linkedin.com/in/james-rice-54570718b/' target='_blank'>James Rice</a> (Boston U. ’24)<br/>
 <a href='https://www.linkedin.com/in/samantha-rigor/' target='_blank'>Samantha (Sam) Rigor</a> (Boston U. ’24)<br/>
@@ -68,7 +71,7 @@ Tyler Olds (Columbia U. ’22)<br/>
 <a href='https://sites.google.com/view/ksamejon/' target='_blank'>Kevin Samejon</a> (Biola U. ’17; Boston U. ’24 – PhD Linguistics)<br/>
 Maya Sanchez (Columbia U. ’21)<br/>
 <a href='https://www.linkedin.com/in/jimmysbordonejr/' target='_blank'>Jimmy Sbordone</a> (Boston U. ’18)<br/>
-Yueliang Shao (BU GRS ’19 – MA Linguistics)<br/>
+Yueliang Shao (Boston U. ’19 – MA Linguistics)<br/>
 <a href='https://www.linkedin.com/in/yashsubrahmanyam/' target='_blank'>Yash Subrahmanyam</a> (Boston U. ’23)<br/>
 <a href='https://sites.google.com/view/lizasulkin/' target='_blank'>Liza Sulkin</a> (Boston U. ’26 – PhD Linguistics)<br/>
 <a href='https://www.linkedin.com/in/sharmaine-sun-72749a11b/' target='_blank'>Sharmaine Sun</a> (Boston U. ’19)<br/>
