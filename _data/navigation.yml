@@ -17,12 +17,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "For Students"
-    url: /for-students/    
-    
   - title: "Current Studies"
     url: /current-studies/
         
+  - title: "For Students"
+    url: /for-students/    
+    
   # - title: "CV"
   #  url: /cv/
     
