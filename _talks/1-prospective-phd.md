@@ -1,5 +1,5 @@
 ---
-title: "Prospective PhD students"
+title: "Prospective PhD Students"
 collection: talks
 permalink: /for-students/prospective-phd
 ---
