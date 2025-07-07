@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <a href='https://www.linkedin.com/in/serena-agarwal-382b592b7/' target='_blank'>Serena Agarwal</a> (Brown U. ’27)<br/>
-Celia Anderson (U. of Chicago ’22)<br/>
+<a href='https://www.linkedin.com/in/celia-anderson-3a6975208/' target='_blank'>Celia Anderson</a> (U. of Chicago ’22)<br/>
 Allie Asaro (Boston U. ’20)<br/>
 <a href='https://www.linkedin.com/in/sreyoshi-basu/' target='_blank'>Sreyoshi Basu</a> (U. of Rochester ’24 – MA Linguistics)<br/>
 Aspen Bombardo (Boston U. ’21)<br/>
@@ -52,8 +52,8 @@ Seokhwa Lee (Yonsei U. ’23)<br/>
 <a href='https://www.linkedin.com/in/william-longerbeam-3338b5267/' target='_blank'>William Longerbeam</a> (Boston U. ’18)<br/>
 <a href='https://www.bu.edu/linguistics/profile/jade-ling-garstang/' target='_blank'>Jade Ling Garstang</a> (Boston U. ’26 – MA Linguistics)<br/>
 <a href='https://dominique-lopiccolo.github.io/' target='_blank'>Dominique Lopiccolo</a> (Boston U. ’19 – MA Applied Linguistics)<br/>
-<a href='https://www.linkedin.com/in/katie-martin-6629352aa/' target='_blank'>Katie Martin (Yale U. ’18)<br/>
-<a href='https://www.linkedin.com/in/stella-miao-m67603227/' target='_blank'>Stella Miao (Boston U. ’22)<br/>
+<a href='https://www.linkedin.com/in/katie-martin-6629352aa/' target='_blank'>Katie Martin</a> (Yale U. ’18)<br/>
+<a href='https://www.linkedin.com/in/stella-miao-m67603227/' target='_blank'>Stella Miao</a> (Boston U. ’22)<br/>
 Iliad Nazari (U. of Minnesota ’25)<br/>
 Tyler Olds (Columbia U. ’22)<br/>
 <a href='https://www.linkedin.com/in/elianamugar/' target='_blank'>Eliana Mugar</a> (Boston U. ’23)<br/>
