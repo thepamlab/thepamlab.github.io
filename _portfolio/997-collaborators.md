@@ -2,6 +2,7 @@
 title: "Collaborators"
 excerpt: "Excellent people have collaborated with us over the years."
 collection: portfolio
+permalink: /people/collaborators
 ---
 
 <a href='http://www.sunyoungahn.org/' target='_blank'>Sunyoung Ahn</a>, University of Toronto<br/>
