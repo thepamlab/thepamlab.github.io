@@ -1,7 +1,7 @@
 ---
 title: "Phonetic and phonological L1 attrition and drift in bilingual speech"
 collection: publications
-category: articles
+category: chapters
 permalink: /publication/2024-11-30-phonetic-and-phonological
 excerpt: 'This contribution presents an overview of what is currently known about phonetic and phonological first language (L1)...'
 date: 2024-11-30
