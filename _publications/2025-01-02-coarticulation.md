@@ -1,5 +1,5 @@
 ---
-title: "Perceiving the social meanings of creaky voice in Mandarin Chinese"
+title: "Coarticulation and coordination in phonological development: Insights from children's and adults' production of complex–simplex stop contrasts in Gã"
 collection: publications
 category: articles
 permalink: /publication/2025-01-02-coarticulation
