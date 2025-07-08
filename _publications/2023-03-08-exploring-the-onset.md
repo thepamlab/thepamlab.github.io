@@ -7,7 +7,7 @@ excerpt: 'In this paper, we follow up on previous findings concerning first lang
 date: 2023-03-08
 venue: 'Languages'
 paperurl: 'http://thepamlab.github.io/files/KelloggChang2023_Languages.pdf'
-citation: 'Kellogg, J., & Chang, C. B. (2023). Exploring the onset of phonetic drift in voice onset time perception. <i>Languages</i>, <>8</i>(1), 78.'
+citation: 'Kellogg, J., & Chang, C. B. (2023). Exploring the onset of phonetic drift in voice onset time perception. <i>Languages</i>, <i>8</i>(1), 78.'
 ---
 
 Recent exposure to a second or foreign language (FL) can influence production and/or perception in the first language (L1), a phenomenon referred to as phonetic drift. The smallest amount of FL exposure shown to effect drift in perception is 1.5 h. The present study examined L1 perception at earlier timepoints of FL exposure, to determine whether the phonetic system is able to resist FL
