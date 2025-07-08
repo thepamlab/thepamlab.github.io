@@ -3,7 +3,7 @@ title: "Individual differences in vowel compactness persist under intoxication a
 collection: publications
 category: proceedings
 permalink: /publication/2023-08-08-individual-differences
-excerpt: 'Alcohol intoxication facilitates inhibition of one's first language (L1) ego, which may lead to reduced individual differences...'
+excerpt: "Alcohol intoxication facilitates inhibition of one's first language (L1) ego, which may lead to reduced individual differences..."
 date: 2023-08-08
 venue: 'International Congress of Phonetic Sciences 20'
 paperurl: 'http://thepamlab.github.io/files/ChangTangNevins2023_ICPhS20.pdf'
