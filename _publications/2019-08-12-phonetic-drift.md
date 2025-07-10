@@ -3,7 +3,7 @@ title: "Phonetic drift"
 collection: publications
 category: chapters
 permalink: /publication/2019-08-12-phonetic-drift
-excerpt: 'This contribution presents an overview of what is currently known about phonetic and phonological first language (L1)...'
+excerpt: 'This chapter provides an overview of research on the phonetic changes that occur in one’s native language (L1) due to...'
 date: 2019-08-12
 venue: 'The Oxford Handbook of Language Attrition'
 paperurl: 'http://thepamlab.github.io/files/Chang2019_OHLA.pdf'
