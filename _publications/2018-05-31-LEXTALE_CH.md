@@ -1,7 +1,7 @@
 ---
 title: "LEXTALE_CH: A quick, character-based proficiency test for Mandarin Chinese"
 collection: publications
-category: proceedings
+category: other
 permalink: /publication/2018-05-31-LEXTALE_CH
 excerpt: "Research in second language acquisition suggests that objective performance-based assessments may provide more reliable and..."
 date: 2018-05-31
