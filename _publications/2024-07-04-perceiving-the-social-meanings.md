@@ -5,7 +5,7 @@ category: proceedings
 permalink: /publication/2024-07-04-perceiving-the-social-meanings
 excerpt: 'While there is a growing literature on the social meanings of nonmodal voice qualities, most of the existing studies...'
 date: 2024-07-04
-venue: 'Speech Prosody 2024'
+venue: 'Proceedings of the International Conference on Speech Prosody'
 paperurl: 'http://thepamlab.github.io/files/YaoLiLiChang2024_SP24.pdf'
 citation: 'Yao, Y., Li, M., Li, S., & Chang, C. B. (2024). Perceiving the social meanings of creaky voice in Mandarin Chinese. In Y. Chen, A. Chen & A. Arvaniti (Eds.), <i>Proceedings of the 12th International Conference on Speech Prosody (Speech Prosody 2024)</i> (pp. 652–656). Leiden, The Netherlands: International Speech Communication Association.'
 ---
