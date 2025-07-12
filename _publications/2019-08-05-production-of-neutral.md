@@ -5,7 +5,7 @@ category: proceedings
 permalink: /publication/2019-08-05-production-of-neutral
 excerpt: 'This study examined the properties of neutral tone (T0) in Mandarin as produced by three groups...'
 date: 2019-08-05
-venue: 'International Congress of Phonetic Sciences 19'
+venue: 'Proceedings of the International Congress of Phonetic Sciences'
 paperurl: 'http://thepamlab.github.io/files/ChangYao2019_ICPhS19.pdf'
 citation: 'Chang, C. B., & Yao, Y. (2019). Production of neutral tone in Mandarin by heritage, native, and second language speakers. In S. Calhoun, P. Escudero, M. Tabain, & P. Warren (Eds.), <i>Proceedings of the 19th International Congress of Phonetic Sciences</i> (pp. 2291–2295). Canberra, Australia: Australasian Speech Science and Technology Association Inc.'
 ---
