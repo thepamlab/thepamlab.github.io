@@ -5,7 +5,7 @@ category: other
 permalink: /publication/2018-05-31-LEXTALE_CH
 excerpt: "Research in second language acquisition suggests that objective performance-based assessments may provide more reliable and..."
 date: 2018-05-31
-venue: 'Boston University Conference on Language Development 42'
+venue: 'Proceedings of the Annual Boston University Conference on Language Development'
 paperurl: 'http://thepamlab.github.io/files/ChanChang2018_BUCLD42.pdf'
 citation: "Chan, I. L., & Chang, C. B. (2018). LEXTALE_CH: A quick, character-based proficiency test for Mandarin Chinese. In A. B. Bertolini & M. J. Kaplan (Eds.), <i>Proceedings of the 42nd Annual Boston University Conference on Language Development</i> (pp. 114–130). Somerville, MA: Cascadilla Press."
 ---
