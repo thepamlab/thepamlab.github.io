@@ -1,6 +1,6 @@
 ---
 title: "Alumni and Former Interns"
-excerpt: "Many (90 so far!) undergraduate students, postgraduate students, and interns have joined us over the years."
+excerpt: "Many (93 so far!) undergraduate students, postgraduate students, and interns have joined us over the years."
 collection: portfolio
 permalink: /people/alumni
 ---
@@ -45,10 +45,12 @@ Will Hutter (Roxbury Latin School ’23)<br/>
 <a href='https://www.linkedin.com/in/madelynj/' target='_blank'>Madelyn (Maddie) Jin</a> (Boston U. ’26)<br/>
 Hye Youn Jo (Boston U. ’18 – EdM TESOL)<br/>
 <a href='https://kellogglinguistics.wixsite.com/ling' target='_blank'>Jackson Kellogg</a> (Boston U. ’26 – PhD Linguistics)<br/>
+<a href='https://www.aekohut.com/' target='_blank'>Alex Kohut</a> (Boston U. ’26 – PhD Linguistics)<br/>
 <a href='https://www.linkedin.com/in/elisabeth-k-b18561165/' target='_blank'>Elisabeth Kotsalidis</a> (Boston U. ’20)<br/>
 <a href='https://www.felixkpogo.com/' target='_blank'>Felix Kpogo</a> (Boston U. ’24 – PhD Linguistics)<br/>
 <a href='https://www.linkedin.com/in/peytonkrinsky/' target='_blank'>Peyton Krinsky</a> (Tufts U. ’24)<br/>
 <a href='https://www.linkedin.com/in/brenden-layte-71695014/' target='_blank'>Brenden Layte</a> (Boston U. ’17 – MA Applied Linguistics)<br/>
+<a href='https://chris-ka-chun-lee.com/' target='_blank'>Chris Ka Chun Lee</a> (Boston U. ’26 – PhD Linguistics)<br/>
 Seokhwa Lee (Yonsei U. ’23)<br/>
 <a href='https://www.linkedin.com/in/jaiden-li/' target='_blank'>Jaiden Li</a> (Andover High ’25)<br/>
 <a href='https://www.linkedin.com/in/xiyuan-li-a30a261b8/' target='_blank'>Xiyuan (Jessica) Li</a> (Hong Kong Polytechnic U. ’20)<br/>
@@ -85,6 +87,7 @@ Dallas Walter (Boston U. ’16)<br/>
 <a href='https://www.linkedin.com/in/shan-wan-768187133/' target='_blank'>Shan Wan</a> (Boston U. ’19)<br/>
 Jason Wang (Concord Carlisle High ’24)<br/>
 <a href='https://www.yiinwang.com/' target='_blank'>Yiin Wang</a> (Boston U. ’23 – MA Linguistics)<br/>
+<a href='https://sites.google.com/view/rebeccaswheeler/' target='_blank'>Rebecca Wheeler</a> (Boston U. ’27 – PhD Linguistics)<br/>
 <a href='https://www.linkedin.com/in/benjaminwongmse/' target='_blank'>Benjamin Wong</a> (Boston U. ’20)<br/>
 <a href='https://lynn-yifanwu-ling.github.io/' target='_blank'>Yifan Wu</a> (Xiamen U. ’23)<br/>
 <a href='https://sites.google.com/view/anniexie' target='_blank'>Annie X.H. Xie</a> (Boston U. ’24 – MA Linguistics)<br/>
