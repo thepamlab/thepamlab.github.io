@@ -8,6 +8,7 @@ permalink: /people/collaborators
 <a href='http://www.sunyoungahn.org/' target='_blank'>Sunyoung Ahn</a>, University of Toronto<br/>
 <a href='https://www.linkedin.com/in/anita-r-bowles/' target='_blank'>Anita Bowles</a>, Defense Language Institute Foreign Language Center<br/>
 <a href='https://www.researchgate.net/profile/I-Lei-Chan' target='_blank'>I Lei (Vicky) Chan</a>, University of Macau<br/>
+<a href='https://www2.hawaii.edu/~acheng20/' target='_blank'>Andrew Cheng</a>, University of Hawaiʻi at Mānoa<br/>
 <a href='https://www.researchgate.net/profile/Esther-De-Leeuw' target='_blank'>Esther de Leeuw</a>, University of Lausanne<br/>
 <a href='https://sllc.umd.edu/directory/robert-dekeyser' target='_blank'>Robert DeKeyser</a>, University of Maryland (emeritus)<br/>
 <a href='https://profiles.rice.edu/faculty/simon-fischer-baum' target='_blank'>Simon Fischer-Baum</a>, Rice University<br/>
