@@ -1,6 +1,6 @@
 ---
 title: "Alumni and Former Interns"
-excerpt: "Many (93 so far!) undergraduate students, postgraduate students, and interns have joined us over the years."
+excerpt: "Many (94 so far!) undergraduate students, postgraduate students, and interns have joined us over the years."
 collection: portfolio
 permalink: /people/alumni
 ---
