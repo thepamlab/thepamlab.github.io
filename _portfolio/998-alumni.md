@@ -11,6 +11,7 @@ permalink: /people/alumni
 Allie Asaro (Boston U. ’20)<br/>
 <a href='https://www.linkedin.com/in/sreyoshi-basu/' target='_blank'>Sreyoshi Basu</a> (U. of Rochester ’24 – MA Linguistics)<br/>
 Aspen Bombardo (Boston U. ’21)<br/>
+<a href='https://www.researchgate.net/profile/Rebecca-Bonney' target='_blank'>Rebecca Dufie Bonney</a> (Boston U. ’28 – PhD Linguistics)<br/>
 <a href='https://www.linkedin.com/in/adi-briskin252/' target='_blank'>Adi Briskin</a> (Washington U. of St. Louis ’25)<br/>
 Jack Brown (Boston U. ’22)<br/>
 <a href='https://www.bu.edu/linguistics/profile/megan-m-brown-bousfield/' target='_blank'>Megan M. Brown-Bousfield</a> (Boston U. ’24 – PhD Linguistics)<br/>
