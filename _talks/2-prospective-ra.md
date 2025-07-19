@@ -13,3 +13,5 @@ Current CityU students (undergraduate or postgraduate) can often join the lab a
  	<li>a short statement about your interests in linguistics (especially as regards the research foci of the lab: phonetics, language acquisition, and multilingualism)</li>
   <li>your intended time commitment (i.e., number of hours per week)</li>
 </ol>
+
+Prof. Chang will then get back to you about whether you would be a good fit for any of the projects underway in the lab.
