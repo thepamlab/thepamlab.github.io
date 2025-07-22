@@ -1,6 +1,6 @@
 ---
 title: "Alumni and Former Interns"
-excerpt: "Many (92 so far!) undergraduate students, postgraduate students, and interns have joined us over the years. They haved moved on to postdoctoral and faculty positions at places such as Brown University and University of Nebraska; master's and PhD programs at Brown, Cornell, LSE, MIT, NYU, Stanford, UCLA, UCL, University of Chicago, University of Delaware, University of South Carolina, and Vanderbilt; and jobs in industry (e.g., Amazon, Duolingo, Rabobank), education, international affairs, law, marketing, medicine, and publishing."
+excerpt: "Many (92 so far!) undergraduate students, postgraduate students, and interns have joined us over the years. They have moved on to academic positions at places such as Brown University and University of Nebraska; master's and PhD programs at Brown, Cornell, LSE, MIT, NYU, Stanford, UCLA, UCL, UChicago, UDel, University of South Carolina, and Vanderbilt; and jobs in industry (e.g., Amazon, Duolingo), education, international affairs, law, marketing, medicine, and publishing."
 collection: portfolio
 permalink: /people/alumni
 ---
