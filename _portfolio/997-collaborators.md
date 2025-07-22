@@ -1,6 +1,6 @@
 ---
 title: "Collaborators"
-excerpt: "Excellent people have collaborated with us over the years."
+excerpt: "Excellent people have collaborated with us over the years, from all over the world: Canada, Germany, Hong Kong, South Korea, Switzerland, the UK, and the US."
 collection: portfolio
 permalink: /people/collaborators
 ---
