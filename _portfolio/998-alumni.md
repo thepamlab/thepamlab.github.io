@@ -1,6 +1,6 @@
 ---
 title: "Alumni and Former Interns"
-excerpt: "Many (94 so far!) undergraduate students, postgraduate students, and interns have joined us over the years."
+excerpt: "Many (92 so far!) undergraduate students, postgraduate students, and interns have joined us over the years. They haved moved on to postdoctoral and faculty positions at places such as Brown University and University of Nebraska; master's and PhD programs at Brown, Cornell, LSE, MIT, NYU, Stanford, UCLA, UCL, University of Chicago, University of Delaware, University of South Carolina, and Vanderbilt; and jobs in industry (e.g., Amazon, Duolingo, Rabobank), education, international affairs, law, marketing, medicine, and publishing."
 collection: portfolio
 permalink: /people/alumni
 ---
@@ -11,7 +11,6 @@ permalink: /people/alumni
 Allie Asaro (Boston U. ’20)<br/>
 <a href='https://www.linkedin.com/in/sreyoshi-basu/' target='_blank'>Sreyoshi Basu</a> (U. of Rochester ’24 – MA Linguistics)<br/>
 Aspen Bombardo (Boston U. ’21)<br/>
-<a href='https://www.researchgate.net/profile/Rebecca-Bonney' target='_blank'>Rebecca Dufie Bonney</a> (Boston U. ’28 – PhD Linguistics)<br/>
 <a href='https://www.linkedin.com/in/adi-briskin252/' target='_blank'>Adi Briskin</a> (Washington U. of St. Louis ’25)<br/>
 Jack Brown (Boston U. ’22)<br/>
 <a href='https://www.bu.edu/linguistics/profile/megan-m-brown-bousfield/' target='_blank'>Megan M. Brown-Bousfield</a> (Boston U. ’24 – PhD Linguistics)<br/>
@@ -51,7 +50,6 @@ Hye Youn Jo (Boston U. ’18 – EdM TESOL)<br/>
 <a href='https://www.felixkpogo.com/' target='_blank'>Felix Kpogo</a> (Boston U. ’24 – PhD Linguistics)<br/>
 <a href='https://www.linkedin.com/in/peytonkrinsky/' target='_blank'>Peyton Krinsky</a> (Tufts U. ’24)<br/>
 <a href='https://www.linkedin.com/in/brenden-layte-71695014/' target='_blank'>Brenden Layte</a> (Boston U. ’17 – MA Applied Linguistics)<br/>
-<a href='https://chris-ka-chun-lee.com/' target='_blank'>Chris Ka Chun Lee</a> (Boston U. ’26 – PhD Linguistics)<br/>
 Seokhwa Lee (Yonsei U. ’23)<br/>
 <a href='https://www.linkedin.com/in/jaiden-li/' target='_blank'>Jaiden Li</a> (Andover High ’25)<br/>
 <a href='https://www.linkedin.com/in/xiyuan-li-a30a261b8/' target='_blank'>Xiyuan (Jessica) Li</a> (Hong Kong Polytechnic U. ’20)<br/>
