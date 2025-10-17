@@ -6,7 +6,7 @@ permalink: /publication/2015-08-14-the-effect-of
 excerpt: "Vowels tend to be reduced in words that are semantically predictable from context, an effect amenable to talker- or..."
 date: 2015-08-14
 venue: 'Proceedings of the International Congress of Phonetic Sciences'
-paperurl: 'http://thepamlab.github.io/files/ChangFischerBaum_ICPhS18.pdf'
+paperurl: 'http://thepamlab.github.io/files/ChangFischerBaum2015_ICPhS18.pdf'
 citation: "Chang, C. B., & Fischer-Baum, S. (2015). The effect of semantic predictability on vowel production with pure word deafness. In The Scottish Consortium for ICPhS 2015 (Ed.), <i>Proceedings of the 18th International Congress of Phonetic Sciences</i> (paper number 0350). Glasgow, UK: University of Glasgow."
 ---
 
