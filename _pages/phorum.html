@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "CityU Phorum"
+permalink: /phorum/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.phorum reversed %}
+  {% include archive-single.html %}
+{% endfor %}
