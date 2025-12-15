@@ -17,6 +17,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "CityU Phorum"
+    url: /phorum/
+        
   - title: "Current Studies"
     url: /current-studies/
         
