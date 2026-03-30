@@ -2,9 +2,9 @@
 title: "Age, gender, and locality effects on innovation in the Twi vowel harmony system"
 collection: publications
 category: articles
-permalink: /publication/2026-03-21-age-gender
+permalink: /publication/2026-04-06-age-gender
 excerpt: 'In this study, we explored social predictors of an ongoing sound change in the Twi Advanced Tongue Root (ATR) harmony system by acoustically...'
-date: 2026-03-21
+date: 2026-04-06
 venue: 'Language Variation and Change'
 paperurl: 'http://thepamlab.github.io/files/KpogoChang2026_LVC.pdf'
 citation: "Kpogo, F., & Chang, C. B. (2026; in press). Age, gender, and locality effects on innovation in the Twi vowel
