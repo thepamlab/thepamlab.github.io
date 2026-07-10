@@ -50,7 +50,6 @@ Hye Youn Jo (Boston U. ’18 – EdM TESOL)<br/>
 <a href='https://www.felixkpogo.com/' target='_blank'>Felix Kpogo</a> (Boston U. ’24 – PhD Linguistics)<br/>
 <a href='https://www.linkedin.com/in/peytonkrinsky/' target='_blank'>Peyton Krinsky</a> (Tufts U. ’24)<br/>
 <a href='https://www.linkedin.com/in/brenden-layte-71695014/' target='_blank'>Brenden Layte</a> (Boston U. ’17 – MA Applied Linguistics)<br/>
-Seokhwa Lee (Yonsei U. ’23)<br/>
 <a href='https://www.linkedin.com/in/jaiden-li/' target='_blank'>Jaiden Li</a> (Andover High ’25)<br/>
 <a href='https://www.linkedin.com/in/xiyuan-li-a30a261b8/' target='_blank'>Xiyuan (Jessica) Li</a> (Hong Kong Polytechnic U. ’20)<br/>
 <a href='https://www.linkedin.com/in/william-longerbeam-3338b5267/' target='_blank'>William Longerbeam</a> (Boston U. ’18)<br/>
