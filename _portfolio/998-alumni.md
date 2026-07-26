@@ -5,13 +5,15 @@ collection: portfolio
 permalink: /people/alumni
 ---
 
-PhD students (co-)supervised:
+<h2>Former PhD students:</h2>
 
-<img src='/images/Ray_J.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='https://jupitararay.github.io/' target='_blank'>Jupitara Ray</a> is a sixth-year PhD student in Linguistics at Boston University, broadly interested in phonetics and phonology, sociolinguistics, bi/multi-lingualism in the diasporic community, etc. A research fellow in the lab in Spring 2024, she is currently working on her dissertation examining phonetic accommodation and drift of Indian English speakers in India and the US.<br/>
+<img src='/images/Kpogo_F.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='https://www.felixkpogo.com/' target='_blank'>Felix Kpogo</a> (PhD 2024, Boston U.) completed a dissertation entitled <i>Investigating sound change in Twi vowel harmony: A sociophonetic study of age, gender, and
+locality effects</i>. He is currently a Pre-Faculty Fellow in the Linguistics Program at Wayne State University (USA).<br/>
 
-<img src='/images/Ray_J.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='https://jupitararay.github.io/' target='_blank'>Jupitara Ray</a> is a sixth-year PhD student in Linguistics at Boston University, broadly interested in phonetics and phonology, sociolinguistics, bi/multi-lingualism in the diasporic community, etc. A research fellow in the lab in Spring 2024, she is currently working on her dissertation examining phonetic accommodation and drift of Indian English speakers in India and the US.<br/>
+<img src='/images/Ray_J.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='https://jupitararay.github.io/' target='_blank'>Jupitara Ray</a> (PhD 2026, Boston U.) completed a dissertation entitled <i>Phonetic plasticity in Indian English bilinguals: How L2 accommodation alters L1 production
+and perception</i>. She is currently a Lab Manager of the Center for Language Science at Penn State University (USA).<br/>
 
-Other alumni and former interns:
+<h2>Other alumni and former interns:</h2>
 
 <a href='https://www.linkedin.com/in/alexander-acosta-3a2348174/' target='_blank'>Alexander Acosta</a> (Boston U. ’22)<br/>
 <a href='https://www.linkedin.com/in/serena-agarwal-382b592b7/' target='_blank'>Serena Agarwal</a> (Brown U. ’27)<br/>
