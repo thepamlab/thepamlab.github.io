@@ -5,13 +5,13 @@ collection: portfolio
 permalink: /people/alumni
 ---
 
-<h2>Former PhD students:</h2>
+<h2>PhD alumni:</h2>
 
 <img src='/images/Kpogo_F.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='https://www.felixkpogo.com/' target='_blank'>Felix Kpogo</a> (PhD 2024, Boston U.) completed a dissertation entitled <i>Investigating sound change in Twi vowel harmony: A sociophonetic study of age, gender, and
 locality effects</i>. He is currently a Pre-Faculty Fellow in the Linguistics Program at Wayne State University (USA).<br/>
 
 <img src='/images/Ray_J.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='https://jupitararay.github.io/' target='_blank'>Jupitara Ray</a> (PhD 2026, Boston U.) completed a dissertation entitled <i>Phonetic plasticity in Indian English bilinguals: How L2 accommodation alters L1 production
-and perception</i>. She is currently a Lab Manager of the Center for Language Science at Penn State University (USA).<br/>
+and perception</i>. She is currently a Human Research Technologist in the Center for Language Science at Penn State University (USA).<br/>
 
 <h2>Other alumni and former interns:</h2>
 
