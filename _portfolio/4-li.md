@@ -1,6 +1,6 @@
 ---
 title: "Meixian (Vicky) Li, PhD student"
-excerpt: "<img src='/images/Li_Meixian.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='http://baolade.github.io/' target='_blank'>Meixian (Vicky) Li</a> is a third-year PhD student in Language Science and Technology at The Hong Kong Polytechnic University. She is working on a Hong Kong GRF-funded project with Profs. Yao Yao and Charles Chang examining the social meanings of creaky voice in Mandarin Chinese."
+excerpt: "<img src='/images/Li_Meixian.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='http://baolade.github.io/' target='_blank'>Meixian (Vicky) Li</a> is a third-year PhD student in Language Science and Technology at The Hong Kong Polytechnic University co-supervised by Profs. Yao Yao and Charles Chang. Her interests are in phonetics, sociolinguistics, and bilingualism. She is working on a Hong Kong GRF-funded project with Profs. Yao Yao and Charles Chang examining the social meanings of creaky voice in Mandarin Chinese."
 collection: portfolio
 permalink: /people/li-meixian
 ---
