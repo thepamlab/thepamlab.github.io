@@ -1,16 +1,16 @@
 ---
 title: "Alumni and Former Interns"
-excerpt: "Many (92 so far!) undergraduate students, postgraduate students, and interns have joined us over the years. They have moved on to academic positions at places such as Brown University and University of Nebraska; master's and PhD programs at Brown, Cornell, LSE, MIT, NYU, Stanford, UCLA, UCL, UChicago, UDel, University of South Carolina, and Vanderbilt; and jobs in industry (e.g., Amazon, Duolingo), education, international affairs, law, marketing, medicine, and publishing."
+excerpt: "Many (92 so far!) doctoral students, master's students, undergraduate students, and interns have joined us over the years. They have moved on to academic positions at places such as Brown University and University of Nebraska; master's and PhD programs at Brown, Cornell, LSE, MIT, NYU, Stanford, UCLA, UCL, UChicago, UDel, University of South Carolina, and Vanderbilt; and jobs in industry (e.g., Amazon, Duolingo), education, international affairs, law, marketing, medicine, and publishing."
 collection: portfolio
 permalink: /people/alumni
 ---
 
 <h2>PhD alumni:</h2>
 
-<img src='/images/Kpogo_F.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='https://www.felixkpogo.com/' target='_blank'>Felix Kpogo</a> (PhD 2024, Boston U.) completed a dissertation entitled <i>Investigating sound change in Twi vowel harmony: A sociophonetic study of age, gender, and
+<img src='/images/Kpogo_F.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='https://www.felixkpogo.com/' target='_blank'>Felix Kpogo</a> (PhD 2024, Boston U.) completed a doctoral dissertation entitled <i>Investigating sound change in Twi vowel harmony: A sociophonetic study of age, gender, and
 locality effects</i>. He is currently a Pre-Faculty Fellow in the Linguistics Program at Wayne State University (USA).<br/>
 
-<img src='/images/Ray_J.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='https://jupitararay.github.io/' target='_blank'>Jupitara Ray</a> (PhD 2026, Boston U.) completed a dissertation entitled <i>Phonetic plasticity in Indian English bilinguals: How L2 accommodation alters L1 production
+<img src='/images/Ray_J.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='https://jupitararay.github.io/' target='_blank'>Jupitara Ray</a> (PhD 2026, Boston U.) completed a doctoral dissertation entitled <i>Phonetic plasticity in Indian English bilinguals: How L2 accommodation alters L1 production
 and perception</i>. She is currently a Human Research Technologist in the Center for Language Science at Penn State University (USA).<br/>
 
 <h2>Other alumni and former interns:</h2>
