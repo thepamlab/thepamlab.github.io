@@ -19,7 +19,7 @@ permalink: /people/collaborators
 <a href='https://www.linkedin.com/in/valerie-karuzis-90639416/' target='_blank'>Valerie Karuzis</a>, University of Maryland<br/>
 <a href='https://www.linkedin.com/in/shira-hahn-569a2642/' target='_blank'>Shira Katseff</a> (now Hahn), CVS Health<br/>
 <a href='https://www.researchgate.net/profile/Youngjoo-Kim-11' target='_blank'>Youngjoo Kim</a>, Kyung Hee University<br/>
-<a href='https://www.felixkpogo.com/' target='_blank'>Felix Kpogo</a>, Brown University<br/>
+<a href='https://www.felixkpogo.com/' target='_blank'>Felix Kpogo</a>, Wayne State University<br/>
 <a href='https://www.researchgate.net/profile/Sungmi-Kwon' target='_blank'>Sungmi Kwon</a>, Pukyong National University<br/>
 <a href='https://spanish.arizona.edu/people/tanialeal' target='_blank'>Tania Leal</a>, University of Arizona<br/>
 <a href='https://education.ucsb.edu/research-faculty/bio?first=Jin%20Sook&last=Lee' target='_blank'>Jin Sook Lee</a>, University of California, Santa Barbara<br/>
@@ -31,6 +31,7 @@ Sunyoung Lee-Ellis, Foreign Service Institute, U.S. Department of State<br/>
 <a href='https://dominique-lopiccolo.github.io/' target='_blank'>Dominique Lopiccolo</a>, University of Delaware<br/>
 <a href='https://profiles.ucl.ac.uk/12006-andrew-nevins' target='_blank'>Andrew Nevins</a>, University College London<br/>
 <a href='https://www.linkedin.com/in/martapiqueras/' target='_blank'>Marta Piqueras-Brunet</a>, FitnessKPI<br/>
+<a href='https://jupitararay.github.io/' target='_blank'>Jupitara Ray</a>, Penn State University<br/>
 <a href='https://www.linkedin.com/in/russellmrhodes/' target='_blank'>Russell Rhodes</a>, Zillow<br/>
 <a href='https://www.kevintang.org/' target='_blank'>Kevin Tang</a>, Heinrich Heine University Düsseldorf<br/>
 <a href='https://medhatare.com/' target='_blank'>Medha Tare</a>, Joan Ganz Cooney Center at Sesame Workshop<br/>
