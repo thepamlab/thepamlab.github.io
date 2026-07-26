@@ -5,6 +5,14 @@ collection: portfolio
 permalink: /people/alumni
 ---
 
+PhD students (co-)supervised:
+
+<img src='/images/Ray_J.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='https://jupitararay.github.io/' target='_blank'>Jupitara Ray</a> is a sixth-year PhD student in Linguistics at Boston University, broadly interested in phonetics and phonology, sociolinguistics, bi/multi-lingualism in the diasporic community, etc. A research fellow in the lab in Spring 2024, she is currently working on her dissertation examining phonetic accommodation and drift of Indian English speakers in India and the US.<br/>
+
+<img src='/images/Ray_J.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='https://jupitararay.github.io/' target='_blank'>Jupitara Ray</a> is a sixth-year PhD student in Linguistics at Boston University, broadly interested in phonetics and phonology, sociolinguistics, bi/multi-lingualism in the diasporic community, etc. A research fellow in the lab in Spring 2024, she is currently working on her dissertation examining phonetic accommodation and drift of Indian English speakers in India and the US.<br/>
+
+Other alumni and former interns:
+
 <a href='https://www.linkedin.com/in/alexander-acosta-3a2348174/' target='_blank'>Alexander Acosta</a> (Boston U. ’22)<br/>
 <a href='https://www.linkedin.com/in/serena-agarwal-382b592b7/' target='_blank'>Serena Agarwal</a> (Brown U. ’27)<br/>
 <a href='https://www.linkedin.com/in/celia-anderson-3a6975208/' target='_blank'>Celia Anderson</a> (U. of Chicago ’22)<br/>
