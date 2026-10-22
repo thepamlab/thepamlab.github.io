@@ -9,7 +9,7 @@ permalink: /people/alumni
 
 <img src='/images/Kpogo_F.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='https://www.felixkpogo.com/' target='_blank'>Felix Kpogo</a> (PhD 2024, Boston U.) completed a doctoral dissertation entitled <a href='https://hdl.handle.net/2144/50532' target='_blank'><i>Investigating sound change in Twi vowel harmony: A sociophonetic study of age, gender, and locality effects</i></a>. He is currently a Pre-Faculty Fellow in the Linguistics Program at Wayne State University (USA).<br/>
 
-<img src='/images/Ray_J.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='https://jupitararay.github.io/' target='_blank'>Jupitara Ray</a> (PhD 2026, Boston U.) completed a doctoral dissertation entitled <a href='https://hdl.handle.net/2144/53610' target='_blank'><i>Phonetic plasticity in Indian English bilinguals: How L2 accommodation alters L1 production and perception</i></a>. She is currently a Human Research Technologist in the Center for Language Science at Penn State University (USA).<br/>
+<img src='/images/Ray_J.jpg' style='padding-right: 10px;' width='90' height='90' align='left' /><a href='https://jupitararay.github.io/' target='_blank'>Jupitara Ray</a> (PhD 2026, Boston U.) completed a doctoral dissertation entitled <a href='https://hdl.handle.net/2144/53610' target='_blank'><i>Phonetic plasticity in Indian English bilinguals: How L2 accommodation alters L1 production and perception</i></a>. She is currently a Human Research Technologist and Research Associate in the Center for Language Science at Penn State University (USA).<br/>
 
 <h2>Other alumni and former interns:</h2>
 
